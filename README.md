@@ -13,4 +13,7 @@ In this repository i have shared some of the results that i have accumulated for
 
 ![ear method](https://github.com/abidshahriar/HRTF_-result/assets/64680295/3bf87dcc-9932-48dc-9924-7d0c4d354279)
 
+ARI Grid used in calculation
+![Figure_2022-04-13_225819](https://github.com/abidshahriar/HRTF_-result/assets/64680295/e3843ce8-6db2-486d-b70e-535ba2b6ef10)
+
 
