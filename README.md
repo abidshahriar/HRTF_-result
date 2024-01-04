@@ -32,8 +32,9 @@ The HRTF measurement varies person to person for the unique anatomy of our ear a
 
 ![ear method](https://github.com/abidshahriar/HRTF_-result/assets/64680295/3bf87dcc-9932-48dc-9924-7d0c4d354279)
 
-ARI Grid used in calculation
-![Figure_2022-04-13_225819](https://github.com/abidshahriar/HRTF_-result/assets/64680295/e3843ce8-6db2-486d-b70e-535ba2b6ef10)
+ARI Grid used in calculation (Reference: Mesh2HRTF )
+![ARI GRID](https://github.com/abidshahriar/HRTF_-result/assets/64680295/de8202b0-150c-4444-9e09-42962193707d)
+
 
 HRTF Measurements of a KEMAR Dummy-Head Microphone data visualization for further caomparision:
 
