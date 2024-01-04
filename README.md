@@ -1,9 +1,9 @@
 # HRTF-result
 In this repository i have shared some of the results that i have accumulated for the HRTF Simulatuion. (Still Updating )
 
-#HRTF Result Obtained:
+# HRTF Result Obtained:
 ![HRIR_ARI_44100_3D (1)](https://github.com/abidshahriar/HRTF_-result/assets/64680295/32980442-b6a6-4cf2-8913-1f8c2191d661)
-#Frequency Response
+# Frequency Response
 ![Picture1](https://github.com/abidshahriar/HRTF_-result/assets/64680295/c9596e4e-f3d7-4ead-a8c9-7838177025f0)
 
 Result and Analysis: 
