@@ -1,23 +1,16 @@
-# HRTF-result
+# Measuring_HRTF
 In this repository i have shared some of the results that i have accumulated for the HRTF Simulatuion. (Still Updating )
-
-# HRTF Result Obtained:
-![HRIR_ARI_44100_3D (1)](https://github.com/abidshahriar/HRTF_-result/assets/64680295/32980442-b6a6-4cf2-8913-1f8c2191d661)
-# Frequency Response
-![Picture1](https://github.com/abidshahriar/HRTF_-result/assets/64680295/c9596e4e-f3d7-4ead-a8c9-7838177025f0)
-
-
-Human beings possess the natural ability to perceive binaural sound due to the presence of two ears. Reproducing three-dimensional sound in a virtual space through headphones necessitates complex calculations. These calculations have been simplified by the utilization of head-related transfer functions (HRTFs). Personalized HRTFs, which are computed using various mathematical techniques and methods, including numerical calculations and machine learning, are now widely accessible. Deploying personalized HRTFs in embedded systems offers advantages over commercial integrated circuits (ICs) such as PTHRTF 2387, which employ pre-existing HRTF techniques. In this paper, I conducted research on calculating the HRTF of a person's scanned head, generated HRTF data, and explored the methodology behind it. Additionally, I investigated why personalized HRTF data can produce a more immersive sound experience compared to commercial analog ICs in the context of 3D binaural rendering.Finally, I have compared this data with MIT’s Kemar Data find a definite deviation of this data. 
-
- 
+Human beings possess the natural ability to perceive binaural sound due to the presence of two ears. Reproducing three-dimensional sound in a virtual space through headphones necessitates complex calculations. These calculations have been simplified by the utilization of head-related transfer functions (HRTFs). Personalized HRTFs, which are computed using various mathematical techniques and methods, including numerical calculations and machine learning, are now widely accessible. In this research, I conducted research on calculating the HRTF of a person's scanned head, generated HRTF data, and explored the methodology behind it. Additionally, I investigated why personalized HRTF data can produce a more immersive sound experience compared to commercial analog ICs in the context of 3D binaural rendering.
 
 Methodology:   HRTF Measurement is a bit complicated method which requires robust hardware and system to calculate and measure it. Moreover, HRTF varies person to person as due to the variation of Pinna Structure and face geometry. Also, the conventional HRTF measurement with hardware takes one person to sit steadily in a measurement lab for much time which could be little discomforting for person to person. To make the calculation easier a computational based method is now widely used. Basically, there are equations to calculate Pressure on the mesh structure.  
-
- 
-
 To get a mesh of the head at first, I have scanned a person’s face with the Help of an iphone’s depth sensing camera at first and then this cloud points are transformed to construct a Mesh of a head on which I will have conducted the calculation on. The process of capturing this Mesh of a head is not an easy process. After taking a Mesh cloud point data I have processed this Mesh with the help of MeshLab and Blender for different type of post processing and so on. Next, I took this mesh for Mesh Grading for checking and fixing any disrupted mesh structure which would rather create issues while performing HRTF calculations. These Mesh are then made structure ready for calculations and so on. After this mesh are made ready, I perform a HRTF calculation on Mesh using a python script. 
 
 And finally, I have got results from this calculation that are ready for evaluation. 
+
+# HRTF Result Obtained:
+![HRIR_ARI_44100_3D (1)](https://github.com/abidshahriar/HRTF_-result/assets/64680295/32980442-b6a6-4cf2-8913-1f8c2191d661)
+# Time- and frequency-domain Response
+![Picture1](https://github.com/abidshahriar/HRTF_-result/assets/64680295/c9596e4e-f3d7-4ead-a8c9-7838177025f0)
 
 Result and Analysis: 
 
