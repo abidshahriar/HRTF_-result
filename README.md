@@ -10,7 +10,8 @@ And finally, I have got results from this calculation that are ready for evaluat
 # HRTF Result Obtained:
 ![HRIR_ARI_44100_3D (1)](https://github.com/abidshahriar/HRTF_-result/assets/64680295/32980442-b6a6-4cf2-8913-1f8c2191d661)
 # Time- and frequency-domain Response
-![Picture1](https://github.com/abidshahriar/HRTF_-result/assets/64680295/c9596e4e-f3d7-4ead-a8c9-7838177025f0)
+![Picture3](https://github.com/abidshahriar/HRTF_-result/assets/64680295/11e29a0b-b487-49b5-832e-6e2224a92f5e)
+
 
 Result and Analysis: 
 
