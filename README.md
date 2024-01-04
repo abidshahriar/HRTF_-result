@@ -9,4 +9,6 @@ In this repository i have shared some of the results that i have accumulated for
 
 | Right Mesh | Left Mesh |
 |------------|-----------|
-| ![Right Mesh](https://github.com/abidshahriar/HRTF_-result/assets/64680295/5f2b86fc-101f-44bf-9e49-f4ec8494de16) | ![Left Mesh](https://github.com/abidshahriar/HRTF_-result/assets/64680295/76f36d61-4a6e-4b85-800c-4833790cb48e) |
+|      ![left mesh left org ](https://github.com/abidshahriar/HRTF_-result/assets/64680295/f3505174-6f6c-4a20-aa99-f8fe2f314b76)
+ |  ![right mesh righ org ](https://github.com/abidshahriar/HRTF_-result/assets/64680295/58b3e677-ec4c-48d3-b275-dc94229b0b4e)
+    |
