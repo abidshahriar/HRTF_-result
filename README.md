@@ -1,3 +1,14 @@
+#Update Oct , 2025: 
+Please note I've been currently working towards finishing this research as a research article. There is a huge level of progress i have made for this reseearch which will address a gap : [1] Perpetual Benchmarking of HRTF [2] Benchmar
+
+This framework provides both an objective and a perceptual assessment . The first benchmark is an objective spectral analysis, comparing key directional features and notch patterns against the distribution found in the ARI database . The second, more novel benchmark is a perceptual evaluation using a custom-trained machine learning model. This model effectively simulates an 'average listener' from the ARI database and answers the question: "If this average listener heard sounds filtered by the simulated HRTF, where would they perceive the sound to be coming from?" By comparing the model's prediction to the true location, we obtain a quantitative measure of the HRTF's perceptual plausibility and its deviation from a population average.
+
+( Im completing this manuscript and I will soon post a preprint on this), I am happy to provide an pre-publication insights or results and methods upon proper request ) 
+
+----------
+
+Previously (last updated 2 years ago): 
+
 # Measuring_HRTF
 In this repository, I have shared some of the results that I have accumulated for the HRTF simulation. (Still Updating )
 Human beings possess the natural ability to perceive binaural sound due to the presence of two ears. Reproducing three-dimensional sound in a virtual space through headphones necessitates complex calculations. These calculations have been simplified by the utilization of head-related transfer functions (HRTFs). Personalized HRTFs, which are computed using various mathematical techniques and methods, including numerical calculations and machine learning, are now widely accessible. In this research, I conducted research on calculating the HRTF of a person's scanned head, generated HRTF data, and explored the methodology behind it. Additionally, I investigated why personalized HRTF data can produce a more immersive sound experience compared to commercial analog ICs in the context of 3D binaural rendering.
